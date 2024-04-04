@@ -7861,7 +7861,7 @@ textarea.form-control-lg {
   height: auto; /* A altura será ajustada automaticamente para manter a proporção */
 }
 @media screen and (max-width: 768px) {
-  .ms-5 {
+  .ms-7 {
     margin-left: 0 !important;
   }
 }
